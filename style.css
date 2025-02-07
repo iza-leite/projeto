@@ -1,0 +1,15 @@
+.a{
+    background-color: rgb(250, 238, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.table{
+    width: 200px;
+    margin: 200 px auto;
+    box-shadow: 0 4px 8px rgb(250, 208, 234);
+}
+
+.tabela{
+    width: 30px;
+    margin: 50pt;
+}
